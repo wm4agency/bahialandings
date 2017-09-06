@@ -1,0 +1,22 @@
+.flv_style_20{
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background-color: #626262;
+    background-image: url(../images/BP-Golf-pano1.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover" data-stellar-background-ratio="0.5;
+}
+
+.textwidget>.logo{
+    width: 50%;
+    height: auto;
+    left: auto;
+    right: auto;
+}
+
+.section#parallax{
+    min-height: 30em;
+}
